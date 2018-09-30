@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Laba_1</string>
+    <string name="name">Пряности</string>
+    <string name="phone">Тел. +7 (8512) 66‒70‒67</string>
+    <string name="mon">Понедельник</string>
+    <string name="mon_time">11:00 – 24:00</string>
+    <string name="tue">Вторник</string>
+    <string name="tue_time">11:00 – 24:00</string>
+    <string name="wed">Среда</string>
+    <string name="wed_time">11:00 – 24:00</string>
+    <string name="thur">Четверг</string>
+    <string name="fri">Пятница</string>
+    <string name="thur_time">11:00 – 24:00</string>
+    <string name="fri_time">11:00 – 02:00</string>
+    <string name="sat">Суббота</string>
+    <string name="sat_time">12:00 – 02:00</string>
+    <string name="sun">Воскресенье</string>
+    <string name="sun_time">12:00 – 24:00</string>
+    <string name="address">БЦ Кристалл, Адмиралтейская ул., 10/14</string>
+    <string name="image">TODO</string>
+</resources>
