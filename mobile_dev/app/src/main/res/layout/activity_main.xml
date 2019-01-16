@@ -77,8 +77,9 @@
                         android:layout_width="0dp"
                         android:layout_height="32dp"
                         android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="5dp"
                         android:layout_weight="1"
-                        android:contentDescription="TODO"
+                        android:contentDescription="@string/todo"
                         app:srcCompat="@drawable/w512h5121390855838watch512" />
 
                     <TextView
@@ -86,7 +87,7 @@
                         android:layout_width="2dp"
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="20dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/mon"
                         android:textAlignment="textEnd"
@@ -100,7 +101,7 @@
                         android:layout_width="2dp"
                         android:layout_height="wrap_content"
                         android:layout_marginRight="30dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/mon_time"
                         android:textSize="24sp" />
@@ -118,7 +119,8 @@
                         android:layout_height="32dp"
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
-                        android:contentDescription="TODO"
+                        android:layout_marginLeft="5dp"
+                        android:contentDescription="@string/todo"
                         app:srcCompat="@drawable/w512h5121390855838watch512" />
 
                     <TextView
@@ -126,7 +128,7 @@
                         android:layout_width="1dp"
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="20dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/tue"
                         android:textAlignment="textEnd"
@@ -137,7 +139,7 @@
                         android:layout_width="2dp"
                         android:layout_height="wrap_content"
                         android:layout_marginRight="30dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/tue_time"
                         android:textSize="24sp" />
@@ -155,7 +157,8 @@
                         android:layout_height="32dp"
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
-                        android:contentDescription="TODO"
+                        android:layout_marginLeft="5dp"
+                        android:contentDescription="@string/todo"
                         app:srcCompat="@drawable/w512h5121390855838watch512" />
 
                     <TextView
@@ -163,7 +166,7 @@
                         android:layout_width="1dp"
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="20dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/wed"
                         android:textAlignment="textEnd"
@@ -174,7 +177,7 @@
                         android:layout_width="2dp"
                         android:layout_height="wrap_content"
                         android:layout_marginRight="30dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/wed_time"
                         android:textSize="24sp" />
@@ -192,7 +195,8 @@
                         android:layout_height="32dp"
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
-                        android:contentDescription="TODO"
+                        android:layout_marginLeft="5dp"
+                        android:contentDescription="@string/todo"
                         app:srcCompat="@drawable/w512h5121390855838watch512" />
 
                     <TextView
@@ -200,7 +204,7 @@
                         android:layout_width="1dp"
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="20dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/thur"
                         android:textAlignment="textEnd"
@@ -211,7 +215,7 @@
                         android:layout_width="2dp"
                         android:layout_height="wrap_content"
                         android:layout_marginRight="30dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/thur_time"
                         android:textSize="24sp" />
@@ -229,7 +233,8 @@
                         android:layout_height="32dp"
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
-                        android:contentDescription="TODO"
+                        android:layout_marginLeft="5dp"
+                        android:contentDescription="@string/todo"
                         app:srcCompat="@drawable/w512h5121390855838watch512" />
 
                     <TextView
@@ -237,7 +242,7 @@
                         android:layout_width="1dp"
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="20dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/fri"
                         android:textAlignment="textEnd"
@@ -248,7 +253,7 @@
                         android:layout_width="2dp"
                         android:layout_height="wrap_content"
                         android:layout_marginRight="30dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/fri_time"
                         android:textSize="24sp" />
@@ -266,7 +271,8 @@
                         android:layout_height="32dp"
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
-                        android:contentDescription="TODO"
+                        android:layout_marginLeft="5dp"
+                        android:contentDescription="@string/todo"
                         app:srcCompat="@drawable/w512h5121390855838watch512" />
 
                     <TextView
@@ -274,7 +280,7 @@
                         android:layout_width="1dp"
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="20dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/sat"
                         android:textAlignment="textEnd"
@@ -285,7 +291,7 @@
                         android:layout_width="2dp"
                         android:layout_height="wrap_content"
                         android:layout_marginRight="30dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/sat_time"
                         android:textSize="24sp" />
@@ -303,7 +309,8 @@
                         android:layout_height="32dp"
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
-                        android:contentDescription="TODO"
+                        android:layout_marginLeft="5dp"
+                        android:contentDescription="@string/todo"
                         app:srcCompat="@drawable/w512h5121390855838watch512" />
 
                     <TextView
@@ -311,7 +318,7 @@
                         android:layout_width="1dp"
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="20dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/sun"
                         android:textAlignment="textEnd"
@@ -322,7 +329,7 @@
                         android:layout_width="2dp"
                         android:layout_height="wrap_content"
                         android:layout_marginRight="30dp"
-                        android:layout_weight="3"
+                        android:layout_weight="5"
                         android:fontFamily="@font/bad_script"
                         android:text="@string/sun_time"
                         android:textSize="24sp" />
